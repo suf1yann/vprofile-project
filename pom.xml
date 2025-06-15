@@ -253,6 +253,7 @@
 
 
     <build>
+	    <defaultGoal>install</defaultGoal>
         <plugins>
             <!-- Jetty Plugin -->
             <plugin>
